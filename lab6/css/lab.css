@@ -4,6 +4,11 @@
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #DDD8C4;
+    border: solid 4px #8edff3;
+    background-color: #b9ffc0;
+    font-style:inherit;
+    box-shadow: #bfe8f9;
+    
+    
+  
   }
