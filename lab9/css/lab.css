@@ -1,0 +1,14 @@
+.special {
+    background-color: rgb(197, 215, 255);
+    border: dotted 50px rgb(255, 0, 102);
+    color: rgb(255, 188, 200);
+    font-weight: bold;
+}
+
+body {
+    background-color: lavender;
+}
+
+.minor-section {
+    background-color: pink;
+}
